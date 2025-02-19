@@ -14,7 +14,7 @@ from datetime import datetime
 from parser import *
 from urllib.request import urlopen
 
-token='8165343589:AAE_GUvzzXA1u-JOV4WK0SUanzryndnbVnc'
+token="your_token"
 
 flagSelectedID = 0
 flagSelectedValue = ""
